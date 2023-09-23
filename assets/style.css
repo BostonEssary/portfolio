@@ -159,7 +159,9 @@ figcaption {
 }
 
 .name {
-    color: #4ca5b1;
+    color: #4AE9FF;
+    background-color: black;
+    border-radius: 10px;
 }
 
 .accent {
